@@ -25,3 +25,6 @@ Correlation- being able to identify a correlation between two or more pieces of 
 Big Picture- This means being able to see the big picture as well as the details.
 
 # Core Analytical Skills
+Root Cause-  root cause is the reason why a problem occurs. If we can identify and get rid of a root cause, we can prevent that problem from happening again. A simple way to wrap your head around root causes is with the process called the Five Whys.
+
+Gap Analysis-  Gap analysis lets you examine and evaluate how a process works currently in order to get where you want to be in the future. 
